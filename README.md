@@ -19,17 +19,7 @@
 
 ## 🚀 Featured Projects
 
-- 🦾 **Quadruped RL in Isaac Sim**  
-  PPO-trained quadruped robot using IMU observations and reward shaping.  
-  _Tech: Python, Isaac Sim, Stable Baselines3_
-
-- 🛠️ **Fusion 360 CAM Automation**  
-  Scripted CAM pipeline to auto-generate toolpaths for PCB milling.  
-  _Tech: Python, adsk.fusion & adsk.cam APIs_
-
-- 🧠 **IMU Orientation Estimation**  
-  Madgwick filter & complementary filter fused orientation for 3D real-time Processing visualization.  
-  _Tech: Arduino, BNO055, Processing, MATLAB_
+coming soon ....
 
 ---
 
