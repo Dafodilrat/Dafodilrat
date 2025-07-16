@@ -15,8 +15,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac--Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CARLA](https://img.shields.io/badge/CARLA--Simulator-121212?style=for-the-badge&logo=car&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo--Sim-2D3F50?style=for-the-badge&logo=simulation&logoColor=white)
+[![CARLA](https://img.shields.io/badge/CARLA_Simulator-121212?style=for-the-badge)](https://carla.org/)
+[![Gazebo](https://img.shields.io/badge/Gazebo_Simulator-2D3F50?style=for-the-badge)](https://gazebosim.org/home)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
